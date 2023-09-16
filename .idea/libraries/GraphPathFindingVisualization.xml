@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GraphPathFindingVisualization">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exe/GraphPathFindingVisualization.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
